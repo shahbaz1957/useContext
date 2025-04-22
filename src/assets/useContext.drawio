@@ -1,0 +1,54 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="E_coMSRrNhiEThpErUUR">
+    <mxGraphModel dx="1598" dy="2493" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WLReApnXkroBIbFOfVsj-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="528" y="-288" width="912.0035922330097" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="WLReApnXkroBIbFOfVsj-28" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="WLReApnXkroBIbFOfVsj-20">
+          <mxGeometry x="-135.9964077669903" y="-8" width="1048" height="1048" as="geometry" />
+        </mxCell>
+        <mxCell id="WLReApnXkroBIbFOfVsj-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WLReApnXkroBIbFOfVsj-28">
+          <mxGeometry width="1048" height="1048" as="geometry" />
+        </mxCell>
+        <mxCell id="WLReApnXkroBIbFOfVsj-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WLReApnXkroBIbFOfVsj-28" source="WLReApnXkroBIbFOfVsj-10" target="WLReApnXkroBIbFOfVsj-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WLReApnXkroBIbFOfVsj-10" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;lt; APP&amp;nbsp; {name : &quot; Shahbaz &quot;}&amp;gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WLReApnXkroBIbFOfVsj-28">
+          <mxGeometry x="169.78609736086423" y="114.25352112676056" width="515.2927663065774" height="69.29577464788733" as="geometry" />
+        </mxCell>
+        <mxCell id="WLReApnXkroBIbFOfVsj-11" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&amp;lt;ChildB/&amp;gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&amp;lt;ChildC /&amp;gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&amp;lt;ChildB/&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WLReApnXkroBIbFOfVsj-28">
+          <mxGeometry x="158.7164077669903" y="448" width="534.66" height="139.94" as="geometry" />
+        </mxCell>
+        <mxCell id="WLReApnXkroBIbFOfVsj-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.516;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WLReApnXkroBIbFOfVsj-28" source="WLReApnXkroBIbFOfVsj-14" target="WLReApnXkroBIbFOfVsj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WLReApnXkroBIbFOfVsj-14" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&amp;lt;ChildA/&amp;gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&amp;lt;ChildB /&amp;gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&amp;lt;ChildA/&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WLReApnXkroBIbFOfVsj-28">
+          <mxGeometry x="177.7864077669903" y="272" width="510.21" height="126.54" as="geometry" />
+        </mxCell>
+        <mxCell id="WLReApnXkroBIbFOfVsj-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WLReApnXkroBIbFOfVsj-28" source="WLReApnXkroBIbFOfVsj-11" target="WLReApnXkroBIbFOfVsj-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="422.34505811568454" y="583.9984507042254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLReApnXkroBIbFOfVsj-22" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;Provider&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WLReApnXkroBIbFOfVsj-28">
+          <mxGeometry x="387.3072241214276" y="26.47887323943662" width="111.92834677970738" height="55.436619718309856" as="geometry" />
+        </mxCell>
+        <mxCell id="WLReApnXkroBIbFOfVsj-26" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&amp;lt;ChildC/&amp;gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;{name}&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&amp;lt;ChildC/&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WLReApnXkroBIbFOfVsj-28">
+          <mxGeometry x="158.72" y="624" width="529.28" height="221.94" as="geometry" />
+        </mxCell>
+        <mxCell id="WLReApnXkroBIbFOfVsj-29" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Shahabz&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WLReApnXkroBIbFOfVsj-28">
+          <mxGeometry x="760" y="696" width="232" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WLReApnXkroBIbFOfVsj-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.017;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WLReApnXkroBIbFOfVsj-28" source="WLReApnXkroBIbFOfVsj-26" target="WLReApnXkroBIbFOfVsj-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WLReApnXkroBIbFOfVsj-33" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="832" y="376" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
